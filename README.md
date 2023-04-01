@@ -1,3 +1,3 @@
 # Řešení úlohy Newsletter
 
-Zadání: https://stage.kodim.cz/kurzy/daweb/zaklady-js/udalosti-formulare/cv-zaklady#cvlekce%3Enewsletter
+Zadání: https://kodim.cz/kurzy/daweb/js1/udalosti-formulare/cv-zaklady/cvlekce%3Enewsletter
